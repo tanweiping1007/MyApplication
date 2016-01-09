@@ -7,5 +7,5 @@ import android.app.Activity;
  */
 public class test2 extends Activity {
     private String abc;
-    private String nothing;
+    private String nothing  , aaaaaaaa;
 }
